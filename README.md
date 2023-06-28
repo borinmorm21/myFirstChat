@@ -24,7 +24,7 @@ Check out the live demo of the chatbot [here](https://649ba6d79353a12339ee5544--
 
 To use the chatbot locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/your-repo.git`
+1. Clone the repository: `git clone https://github.com/borinmorm21/myFirstChat`
 2. Open the project folder in your preferred code editor.
 3. Open the `index.html` file in a web browser.
 4. Interact with the chatbot by typing messages in the input field and pressing Enter or clicking the Send button.
